@@ -1,0 +1,13 @@
+# Standard Git Ignore
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+node_modules/
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+.DS_Store
+temp_video_rec/
+test.mp4
